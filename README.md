@@ -1,10 +1,10 @@
-# ALL4ME - Auditoría de Red 🛡️
+# Auditoría de Red 🛡️
 
-**ALL4ME** es un script interactivo en Bash diseñado para la exploración y auditoría de seguridad en redes locales. Combina herramientas estándar bajo una interfaz visual intuitiva con soporte para colores y gestión automática de reportes.
+**Scan4me** es un script interactivo en Bash diseñado para la exploración y auditoría de seguridad en redes locales. Combina herramientas estándar bajo una interfaz visual intuitiva con soporte para colores y gestión automática de reportes.
 
 ## 📖 Descripción Detallada
 
-**ALL4ME** es una solución de automatización en Bash diseñada para simplificar las fases de **reconocimiento y enumeración** en una auditoría de red. El script actúa como una capa de orquestación que integra herramientas de bajo nivel, permitiendo al auditor centrarse en el análisis de datos en lugar de en la sintaxis compleja de los comandos.
+**Scan4me** es una solución de automatización en Bash diseñada para simplificar las fases de **reconocimiento y enumeración** en una auditoría de red. El script actúa como una capa de orquestación que integra herramientas de bajo nivel, permitiendo al auditor centrarse en el análisis de datos en lugar de en la sintaxis compleja de los comandos.
 
 ### 🛡️ Arquitectura y Funcionamiento
 
@@ -63,18 +63,18 @@ sudo apt install nmap arp-scan netdiscover -y
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/DanSanMar/all4me.git
-   cd all4me
+   git clone https://github.com/DanSanMar/Scan4me.git
+   cd Scan4me
    ```
 
 2. **Dale permisos de ejecución:**
    ```bash
-   chmod +x all4me.sh
+   chmod +x Scan4me.sh
    ```
 
 3. **Ejecútalo con privilegios de root:**
    ```bash
-   sudo ./all4me.sh
+   sudo ./Scan4me.sh
    ```
 
 ---
