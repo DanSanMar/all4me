@@ -1,9 +1,5 @@
 # Auditoría de Red 🛡️
 
-**Scan4me** es un script interactivo en Bash diseñado para la exploración y auditoría de seguridad en redes locales. Combina herramientas estándar bajo una interfaz visual intuitiva con soporte para colores y gestión automática de reportes.
-
-## 📖 Descripción Detallada
-
 **Scan4me** es una solución de automatización en Bash diseñada para simplificar las fases de **reconocimiento y enumeración** en una auditoría de red. El script actúa como una capa de orquestación que integra herramientas de bajo nivel, permitiendo al auditor centrarse en el análisis de datos en lugar de en la sintaxis compleja de los comandos.
 
 ### 🛡️ Arquitectura y Funcionamiento
